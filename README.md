@@ -14,4 +14,4 @@ Just type `make`, which uses [`runipy`](https://github.com/paulgb/runipy) to run
 
 ## Todo
 
-* Include geometric probability of transit
+* The histogram should be number of detections per planet
